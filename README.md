@@ -31,8 +31,8 @@ hours of manual work saved daily.
 
 ## Individual Zap Steps
 ![Send signup email](zap-signup-email.png)
-![Populate Google Sheet](zap-sheet.png)
 ![Populate MailerLite](zap-mailerlite.png)
+![Populate Google Sheet](zap-sheet.png)
 ![Signup Form](zap-signup-form.png)
 ![Populate HubSpot](zap-hubspot.png)
 ![Update Pumble](zap-pumble.png)
