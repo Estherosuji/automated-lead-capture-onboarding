@@ -34,8 +34,11 @@ hours of manual work saved daily.
 ![Populate MailerLite](zap-mailerlite.png)
 ![Populate HubSpot](zap-hubspot.png)
 ![Update Pumble](zap-pumble.png)
+
+## Actions Taken 
 ![Signup Form](zap-signup-form.png)
 ![Populate Google Sheet](zap-sheet.png)
+![Update Team on Pumble](zap-pumble1.png)
 
 ## Proof of Execution
 ![Execution history](execution-history.png)
