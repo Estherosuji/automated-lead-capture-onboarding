@@ -39,7 +39,7 @@ hours of manual work saved daily.
 ![Signup Form](zap-signup-form.png)
 ![Populate Google Sheet](zap-sheet.png)
 ![Update Team on Pumble](zap-pumble.png)
-![Send signup email](zap-signup-email1.png)
+![Send signup email](zap-signup-email.png)
 
 ## Proof of Execution
 ![Execution history](execution-history.png)
