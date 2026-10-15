@@ -30,10 +30,10 @@ hours of manual work saved daily.
 ![Workflow diagram](workflow-diagram.png)
 
 ## Individual Zap Steps
-![Send signup email](zap-signup-email.png)
+![Send signup email](zap-signup-email-1.png)
 ![Populate MailerLite](zap-mailerlite.png)
 ![Populate HubSpot](zap-hubspot.png)
-![Update Pumble](zap-pumble.png)
+![Update Pumble](zap-pumble-4.png)
 
 ## Actions Taken 
 ![Signup Form](zap-signup-form.png)
